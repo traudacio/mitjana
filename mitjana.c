@@ -18,4 +18,5 @@ int main() {
 	mitja=suma/numero_repeticions;
 	printf("La mitja resultant és: %.2f\n",mitja);	
 	return 0;
+
 }
